@@ -1,3 +1,5 @@
 Selam, IEEE İKÜ Git Workshopuna hoş geldiniz.
 
 Eğitmen: Ogün Birinci
+
+Tarih: 21.01.2021

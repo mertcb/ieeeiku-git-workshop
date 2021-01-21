@@ -1,1 +1,3 @@
 Selam, IEEE İKÜ Git Workshopuna hoş geldiniz.
+
+Eğitmen: Mert Can Bilgiç

@@ -3,3 +3,5 @@ Selam, IEEE İKÜ Git Workshopuna hoş geldiniz.
 Eğitmen: Mert Can Bilgiç
 
 Tarih: 21.01.2021
+
+Eğitim : Github-Git
